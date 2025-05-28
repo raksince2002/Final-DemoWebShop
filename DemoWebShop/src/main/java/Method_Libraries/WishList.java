@@ -22,6 +22,7 @@ public class WishList extends AddAndDelete
 	//Click on 'Digital Downloads'
     public String ClickDigitalDownloads() throws InterruptedException
     {	
+    	log.info("Click on Digital Downloads");
   	  WebElement DigitalDownloadsElement=wd1.findElement(DigitalDownloadsLink);
   	  DigitalDownloadsElement.click();
   	  String DigitalDownloadsTitle=wd1.getTitle();
@@ -32,21 +33,23 @@ public class WishList extends AddAndDelete
     public void AddProducts()
     {
      //List of product URLs
+    	log.info("Add All Products into the WishList");
        String[] productURLs= {p.getProperty("WishList1Url"),
     		   p.getProperty("WishList2Url"),
     		   p.getProperty("WishList3Url")};
      //Loop through each product URL and add to wishlist
           for (String url : productURLs)
             {
-                 wd1.navigate().to(url);
+                 wd1.navigate().to(url); // Navigating to particular wishlist product URL
                  wd1.findElement(AddToWishListButton).click();
             }
     }
     //validate all products are add into the wishlist
     public String ValidateAllAddedProducts() throws StaleElementReferenceException, IOException
     {
+    	log.info("validate all products are add into the wishlist");
     	wd1.get(p.getProperty("WishListUrl"));
-  	    c.reload_page();
+  	    c.reload_page(); // refreshing the page
   	    try {
 	  	    WebDriverWait wait = new WebDriverWait(wd1, Duration.ofSeconds(1000));
 	  	    wait.until(ExpectedConditions.presenceOfElementLocated(By.className("cart-item-row")));
@@ -62,6 +65,7 @@ public class WishList extends AddAndDelete
     //Click on 'WishList'
     public String ClickWishList()
     {	
+    	log.info("Click on WishList");
     WebElement WishList=wd1.findElement(WishListLink);
 	WishList.click();
 	String WishListTitle=wd1.getTitle();
@@ -71,6 +75,7 @@ public class WishList extends AddAndDelete
     //Remove a product from the WishList
     public void RemoveProduct() throws InterruptedException
     {
+    	log.info("Remove a product from the WishList");
     	WebElement productToRemove=wd1.findElement(ProductOneLink);
     	productToRemove.findElement(RemoveCheckBoxPath).click();
     }
@@ -109,6 +114,7 @@ public class WishList extends AddAndDelete
     //Removing all product from the WishList
     public void RemoveAllProduct()
     {
+    	log.info("Removing all product from the WishList");
     	List<WebElement> removeproduct= wd1.findElements(RemoveCheckBoxPath);
     	int size=removeproduct.size();
     	System.out.println(size);

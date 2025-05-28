@@ -28,13 +28,13 @@ public class AddToCartAndValidation_bdd {
 	    obj.clickBooks();
 	}
  
-	@Then("I am in books page")
+	@Then("I confirm all books having Add To Cart Button")
 	public void i_am_in_books_page() {
 	   boolean assertAddToCart = obj.assertAddToCartButton();
-	   assertFalse(assertAddToCart);
+	   assertTrue(assertAddToCart);
 	}
  
-	@And("I click add to cart")
+	@And("I click add to cart for third book")
 	public void i_click_add_to_cart() {
 	    obj.thirdBook();
 	}

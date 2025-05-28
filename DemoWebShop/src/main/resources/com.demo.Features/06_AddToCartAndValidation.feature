@@ -23,6 +23,6 @@ Feature: Add to Cart
   Scenario: Adding third product to cart
   Given I am in home page
   When I click on books section in categories
-  Then I am in books page
-  And I click add to cart
+  And I click add to cart for third book
   Then cart count should be increased
+  Then I confirm all books having Add To Cart Button

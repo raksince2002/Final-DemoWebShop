@@ -75,7 +75,7 @@ public class Register extends Xpaths {
 				asse_rt = wd1.getPageSource().contains("Your registration completed");
 				asse_rt = true;
 				validate();
-				r.set_cell(i, 8, "Passed", 0);
+				r.set_cell(i, 7, "Passed", 0);
 				wd1.findElement(Continue).click();
 				break;
 			}
@@ -83,14 +83,14 @@ public class Register extends Xpaths {
 				asse_rt = wd1.getPageSource().contains("The specified email already exists");
 				asse_rt = false;
 				validate();
-				r.set_cell(i, 8, "Failed", 0);
+				r.set_cell(i, 7, "Failed", 0);
 				erase();
 			}
 			else {
 				asse_rt = wd1.getPageSource().contains("First name is required.");
 					asse_rt = false;
 					validate();
-					r.set_cell(i, 8, "Failed", 0);
+					r.set_cell(i, 7, "Failed", 0);
 					erase();
 			}
 	}

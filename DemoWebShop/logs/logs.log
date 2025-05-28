@@ -1,0 +1,1159 @@
+[DEBUG] 2025-05-28 10:58:32.237 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 10:58:32.243 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 10:58:32.244 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 10:58:32.246 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 10:58:32.246 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 10:58:32.679 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 10:58:47.042 [main] Register - Navigating to Register
+[INFO ] 2025-05-28 10:58:47.827 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 10:58:47.930 [main] Register - Entering firstname
+[INFO ] 2025-05-28 10:58:48.020 [main] Register - Entering lastname
+[INFO ] 2025-05-28 10:58:48.087 [main] Register - Entering email
+[INFO ] 2025-05-28 10:58:48.174 [main] Register - Entering password
+[INFO ] 2025-05-28 10:58:48.253 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 10:58:48.321 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 10:58:49.269 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 10:58:49.337 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 10:58:49.343 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 10:58:49.344 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 10:58:49.347 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 10:58:49.347 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 10:58:49.348 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 10:58:49.348 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 10:58:49.349 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 10:58:49.351 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 10:58:49.353 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 10:58:49.355 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 10:58:49.355 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 10:58:49.632 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 10:58:49.697 [main] Register - Entering firstname
+[INFO ] 2025-05-28 10:58:49.753 [main] Register - Entering lastname
+[INFO ] 2025-05-28 10:58:49.832 [main] Register - Entering email
+[INFO ] 2025-05-28 10:58:49.898 [main] Register - Entering password
+[INFO ] 2025-05-28 10:58:49.960 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 10:58:50.035 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 10:58:50.166 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 10:58:50.168 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 10:58:50.169 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 10:58:50.170 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 10:58:50.171 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 10:58:50.172 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 10:58:50.172 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 10:58:50.173 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 10:58:50.173 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 10:58:50.178 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 10:58:50.180 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 10:58:50.181 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 10:58:50.182 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 10:58:50.436 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 10:58:50.493 [main] Register - Entering firstname
+[INFO ] 2025-05-28 10:58:50.546 [main] Register - Entering lastname
+[INFO ] 2025-05-28 10:58:50.604 [main] Register - Entering email
+[INFO ] 2025-05-28 10:58:50.703 [main] Register - Entering password
+[INFO ] 2025-05-28 10:58:50.780 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 10:58:50.870 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 10:58:51.810 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 10:58:51.819 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 10:58:51.820 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 10:58:51.821 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 10:58:51.823 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 10:58:51.824 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 10:58:51.825 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 10:58:51.826 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 10:58:51.826 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 10:58:51.831 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 10:58:51.833 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 10:58:51.834 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 10:58:51.835 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 10:58:52.102 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 10:58:52.158 [main] Register - Entering firstname
+[INFO ] 2025-05-28 10:58:52.212 [main] Register - Entering lastname
+[INFO ] 2025-05-28 10:58:52.274 [main] Register - Entering email
+[INFO ] 2025-05-28 10:58:52.365 [main] Register - Entering password
+[INFO ] 2025-05-28 10:58:52.432 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 10:58:52.499 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 10:58:53.707 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 10:58:53.708 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 10:58:53.709 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 10:58:53.710 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 10:58:53.710 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 10:58:53.725 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 10:58:54.310 [main] Register - Entering Email for subscribing to NewsLetter
+[INFO ] 2025-05-28 10:58:54.402 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 10:58:54.489 [main] Register - Asserting text message after subscribing
+[DEBUG] 2025-05-28 10:58:55.093 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 10:58:55.094 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 10:58:55.094 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 10:58:55.096 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 10:58:55.096 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 10:58:55.109 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 10:58:55.140 [main] Register - Refreshing page and entering same email again for subscribing
+[INFO ] 2025-05-28 10:58:55.878 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 10:58:55.955 [main] Register - Asserting text message after subscribing again
+[DEBUG] 2025-05-28 10:59:55.074 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 10:59:55.081 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 10:59:55.082 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 10:59:55.083 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 10:59:55.084 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 10:59:55.521 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:00:11.943 [main] Register - Navigating to Register
+[INFO ] 2025-05-28 11:00:12.952 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:00:13.070 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:00:13.168 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:00:13.239 [main] Register - Entering email
+[INFO ] 2025-05-28 11:00:13.407 [main] Register - Entering password
+[INFO ] 2025-05-28 11:00:13.520 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:00:13.610 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:00:14.682 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:00:14.755 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:00:14.759 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:00:14.760 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:00:14.763 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:00:14.763 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:00:14.764 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:00:14.765 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:00:14.765 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:00:14.767 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:00:14.770 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:00:14.771 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:00:14.772 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:00:15.069 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:00:15.141 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:00:15.199 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:00:15.288 [main] Register - Entering email
+[INFO ] 2025-05-28 11:00:15.366 [main] Register - Entering password
+[INFO ] 2025-05-28 11:00:15.444 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:00:15.529 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:00:15.656 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:00:15.658 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:00:15.659 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:00:15.660 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:00:15.661 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:00:15.662 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:00:15.662 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:00:15.663 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:00:15.663 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:00:15.667 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:00:15.669 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:00:15.671 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:00:15.671 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:00:15.955 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:00:16.019 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:00:16.077 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:00:16.147 [main] Register - Entering email
+[INFO ] 2025-05-28 11:00:16.256 [main] Register - Entering password
+[INFO ] 2025-05-28 11:00:16.339 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:00:16.421 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:00:17.376 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:00:17.378 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:00:17.380 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:00:17.381 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:00:17.382 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:00:17.384 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:00:17.385 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:00:17.385 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:00:17.386 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:00:17.388 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:00:17.390 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:00:17.391 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:00:17.392 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:00:17.650 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:00:17.706 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:00:17.756 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:00:17.816 [main] Register - Entering email
+[INFO ] 2025-05-28 11:00:17.908 [main] Register - Entering password
+[INFO ] 2025-05-28 11:00:17.977 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:00:18.047 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:00:19.317 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:00:19.319 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:00:19.320 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:00:19.321 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:00:19.322 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:00:19.335 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:00:20.023 [main] Register - Entering Email for subscribing to NewsLetter
+[INFO ] 2025-05-28 11:00:20.127 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:00:20.210 [main] Register - Asserting text message after subscribing
+[DEBUG] 2025-05-28 11:00:20.799 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:00:20.800 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:00:20.801 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:00:20.801 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:00:20.802 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:00:20.815 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:00:20.848 [main] Register - Refreshing page and entering same email again for subscribing
+[INFO ] 2025-05-28 11:00:21.836 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:00:21.917 [main] Register - Asserting text message after subscribing again
+[DEBUG] 2025-05-28 11:02:57.998 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:02:58.004 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:02:58.005 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:02:58.006 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:02:58.007 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:02:58.424 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:03:19.940 [main] Register - Navigating to Register
+[INFO ] 2025-05-28 11:03:21.094 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:03:21.246 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:03:21.345 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:03:21.426 [main] Register - Entering email
+[INFO ] 2025-05-28 11:03:21.516 [main] Register - Entering password
+[INFO ] 2025-05-28 11:03:21.589 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:03:21.656 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:03:22.468 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:03:22.545 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:03:22.549 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:03:22.549 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:03:22.553 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:03:22.553 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:03:22.554 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:03:22.554 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:03:22.555 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:03:22.557 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:03:22.560 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:03:22.562 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:03:22.562 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:03:22.849 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:03:22.912 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:03:22.983 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:03:23.061 [main] Register - Entering email
+[INFO ] 2025-05-28 11:03:23.123 [main] Register - Entering password
+[INFO ] 2025-05-28 11:03:23.191 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:03:23.290 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:03:23.413 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:03:23.415 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:03:23.416 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:03:23.417 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:03:23.418 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:03:23.419 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:03:23.419 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:03:23.420 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:03:23.420 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:03:23.422 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:03:23.424 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:03:23.427 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:03:23.428 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:03:23.688 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:03:23.748 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:03:23.808 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:03:23.864 [main] Register - Entering email
+[INFO ] 2025-05-28 11:03:23.953 [main] Register - Entering password
+[INFO ] 2025-05-28 11:03:24.023 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:03:24.099 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:03:25.309 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:03:25.313 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:03:25.315 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:03:25.315 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:03:25.317 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:03:25.317 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:03:25.317 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:03:25.318 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:03:25.318 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:03:25.321 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:03:25.322 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:03:25.324 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:03:25.324 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:03:25.603 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:03:25.665 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:03:25.725 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:03:25.794 [main] Register - Entering email
+[INFO ] 2025-05-28 11:03:25.884 [main] Register - Entering password
+[INFO ] 2025-05-28 11:03:25.963 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:03:26.028 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:03:27.474 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:03:27.476 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:03:27.478 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:03:27.479 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:03:27.480 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:03:27.496 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:03:28.318 [main] Register - Entering Email for subscribing to NewsLetter
+[INFO ] 2025-05-28 11:03:28.405 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:03:28.491 [main] Register - Asserting text message after subscribing
+[DEBUG] 2025-05-28 11:03:29.088 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:03:29.090 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:03:29.091 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:03:29.093 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:03:29.095 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:03:29.147 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:03:29.198 [main] Register - Refreshing page and entering same email again for subscribing
+[INFO ] 2025-05-28 11:03:30.157 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:03:30.229 [main] Register - Asserting text message after subscribing again
+[DEBUG] 2025-05-28 11:04:56.772 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:04:56.778 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:04:56.779 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:04:56.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:04:56.781 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:04:57.204 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:05:14.298 [main] Register - Navigating to Register
+[INFO ] 2025-05-28 11:05:15.118 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:05:15.252 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:05:15.343 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:05:15.404 [main] Register - Entering email
+[INFO ] 2025-05-28 11:05:15.489 [main] Register - Entering password
+[INFO ] 2025-05-28 11:05:15.571 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:05:15.638 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:05:16.382 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:05:16.465 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:05:16.469 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:05:16.470 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:05:16.473 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:05:16.474 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:05:16.476 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:05:16.477 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:05:16.478 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:05:16.480 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:05:16.483 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:05:16.484 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:05:16.485 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:05:16.778 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:05:16.853 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:05:16.910 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:05:16.966 [main] Register - Entering email
+[INFO ] 2025-05-28 11:05:17.020 [main] Register - Entering password
+[INFO ] 2025-05-28 11:05:17.088 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:05:17.164 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:05:17.288 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:05:17.290 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:05:17.291 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:05:17.293 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:05:17.296 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:05:17.297 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:05:17.298 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:05:17.300 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:05:17.301 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:05:17.303 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:05:17.305 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:05:17.307 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:05:17.308 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:05:17.559 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:05:17.617 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:05:17.673 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:05:17.721 [main] Register - Entering email
+[INFO ] 2025-05-28 11:05:17.813 [main] Register - Entering password
+[INFO ] 2025-05-28 11:05:17.878 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:05:17.941 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:05:19.362 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:05:19.364 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:05:19.366 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:05:19.366 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:05:19.368 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:05:19.368 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:05:19.369 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:05:19.369 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:05:19.370 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:05:19.372 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:05:19.373 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:05:19.375 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:05:19.376 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:05:20.263 [main] Register - Selecting Male Gender
+[DEBUG] 2025-05-28 11:05:30.655 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:05:30.661 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:05:30.662 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:05:30.663 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:05:30.664 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:05:30.683 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:05:30.731 [main] Register - Entering Email for subscribing to NewsLetter
+[INFO ] 2025-05-28 11:05:30.830 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:05:30.909 [main] Register - Asserting text message after subscribing
+[DEBUG] 2025-05-28 11:05:31.494 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:05:31.495 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:05:31.496 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:05:31.496 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:05:31.497 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:05:31.508 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:05:31.537 [main] Register - Refreshing page and entering same email again for subscribing
+[INFO ] 2025-05-28 11:05:32.344 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:05:32.418 [main] Register - Asserting text message after subscribing again
+[DEBUG] 2025-05-28 11:05:42.768 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:05:42.769 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:05:42.770 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:05:42.770 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:05:42.771 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:05:42.792 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:05:42.843 [main] Register - Logging out from website
+[INFO ] 2025-05-28 11:05:44.385 [main] Register - Clicking on one of the options for the poll
+[INFO ] 2025-05-28 11:05:44.459 [main] Register - Asserting text message after voting out with the user logged in
+[INFO ] 2025-05-28 11:05:44.536 [main] Register - Asserting text message after voting out without logging into the website
+[DEBUG] 2025-05-28 11:05:45.155 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:05:45.156 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:05:45.156 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:05:45.157 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:05:45.157 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:05:45.166 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:05:45.194 [main] Register - Logging into the website for polling again
+[DEBUG] 2025-05-28 11:05:57.024 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:05:57.025 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:05:57.026 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:05:57.026 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:05:57.027 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:05:57.037 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:05:57.059 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:05:57.060 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:05:57.061 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:05:57.062 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:05:57.062 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:05:57.071 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:05:57.731 [main] Register - Searching the product
+[INFO ] 2025-05-28 11:05:57.808 [main] Register - Clicking search button
+[INFO ] 2025-05-28 11:05:57.892 [main] Register - Validating book is present or not
+[DEBUG] 2025-05-28 11:05:58.946 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:05:58.948 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:05:58.948 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:05:58.949 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:05:58.949 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:05:58.960 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:05:59.661 [main] Register - Navigating to books section
+[INFO ] 2025-05-28 11:05:59.810 [main] Register - Adding third book into the cart
+[DEBUG] 2025-05-28 11:07:12.101 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:07:12.107 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:07:12.109 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:07:12.110 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:07:12.110 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:07:12.530 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:07:28.130 [main] Register - Navigating to Login Page
+[INFO ] 2025-05-28 11:07:28.902 [main] Register - Entering email
+[INFO ] 2025-05-28 11:07:29.008 [main] Register - Entering password
+[INFO ] 2025-05-28 11:07:29.097 [main] Register - Clicking Login button
+[INFO ] 2025-05-28 11:07:30.209 [main] Register - Validating Login
+[DEBUG] 2025-05-28 11:07:30.286 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:07:30.287 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:07:30.288 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:07:30.289 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:07:30.290 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:07:30.322 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:07:30.366 [main] Register - Entering Email for subscribing to NewsLetter
+[INFO ] 2025-05-28 11:07:30.448 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:07:30.527 [main] Register - Asserting text message after subscribing
+[DEBUG] 2025-05-28 11:07:31.134 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:07:31.135 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:07:31.136 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:07:31.136 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:07:31.137 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:07:31.162 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:07:31.195 [main] Register - Refreshing page and entering same email again for subscribing
+[INFO ] 2025-05-28 11:07:32.006 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:07:32.076 [main] Register - Asserting text message after subscribing again
+[DEBUG] 2025-05-28 11:07:42.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:07:42.597 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:07:42.598 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:07:42.598 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:07:42.599 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:07:42.616 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:07:42.651 [main] Register - Logging out from website
+[INFO ] 2025-05-28 11:07:43.823 [main] Register - Clicking on one of the options for the poll
+[INFO ] 2025-05-28 11:07:43.904 [main] Register - Asserting text message after voting out with the user logged in
+[INFO ] 2025-05-28 11:07:44.008 [main] Register - Asserting text message after voting out without logging into the website
+[DEBUG] 2025-05-28 11:07:44.594 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:07:44.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:07:44.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:07:44.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:07:44.597 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:07:44.607 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:07:44.639 [main] Register - Logging into the website for polling again
+[INFO ] 2025-05-28 11:07:46.989 [main] Register - Clicking on one of the options for the poll
+[INFO ] 2025-05-28 11:07:47.051 [main] Register - Asserting text message after voting out with the user logged in
+[DEBUG] 2025-05-28 11:07:59.090 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:07:59.094 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:07:59.095 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:07:59.096 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:07:59.097 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:07:59.127 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:07:59.151 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:07:59.152 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:07:59.153 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:07:59.153 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:07:59.161 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:07:59.171 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:07:59.229 [main] Register - Searching the product
+[INFO ] 2025-05-28 11:07:59.308 [main] Register - Clicking search button
+[INFO ] 2025-05-28 11:07:59.388 [main] Register - Validating book is present or not
+[DEBUG] 2025-05-28 11:08:00.452 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:00.453 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:00.453 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:00.454 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:00.454 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:00.463 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:08:01.103 [main] Register - Navigating to books section
+[INFO ] 2025-05-28 11:08:03.046 [main] Register - Adding third book into the cart
+[INFO ] 2025-05-28 11:08:03.142 [main] Register - Counting number of books that are added into the cart
+[INFO ] 2025-05-28 11:08:03.704 [main] Register - Confirming all books having addtocart
+[DEBUG] 2025-05-28 11:08:03.975 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:03.976 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:03.976 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:03.977 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:03.978 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:03.988 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:08:04.008 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:04.009 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:04.010 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:04.010 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:04.011 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:04.024 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:08:04.977 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:08:08.950 [main] Register - Select country
+[INFO ] 2025-05-28 11:08:09.197 [main] Register - Enter city
+[INFO ] 2025-05-28 11:08:09.273 [main] Register - Enter address
+[INFO ] 2025-05-28 11:08:09.352 [main] Register - Enter zipcode
+[DEBUG] 2025-05-28 11:08:09.793 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:09.794 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:09.795 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:09.795 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:09.796 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:09.808 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:08:09.828 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:09.829 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:09.829 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:09.830 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:09.830 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:09.840 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:08:12.060 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:08:16.255 [main] Register - Select country
+[DEBUG] 2025-05-28 11:08:21.715 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:21.716 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:21.716 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:21.717 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:21.717 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:21.725 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:08:21.742 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:21.743 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:21.743 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:21.744 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:21.745 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:21.753 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:08:22.423 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:08:24.745 [main] Register - Select country
+[DEBUG] 2025-05-28 11:08:30.247 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:30.249 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:30.250 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:30.250 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:30.251 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:30.262 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:08:30.320 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:08:30.321 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:08:30.322 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:08:30.324 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:08:30.325 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:08:30.336 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:08:31.148 [main] Register - Navigate to Shopping cart page
+[DEBUG] 2025-05-28 11:10:47.134 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:10:47.141 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:10:47.142 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:10:47.143 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:10:47.144 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:10:47.560 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:07.662 [main] Register - Navigating to Login Page
+[INFO ] 2025-05-28 11:11:08.437 [main] Register - Entering email
+[INFO ] 2025-05-28 11:11:08.529 [main] Register - Entering password
+[INFO ] 2025-05-28 11:11:08.615 [main] Register - Clicking Login button
+[INFO ] 2025-05-28 11:11:10.203 [main] Register - Validating Login
+[DEBUG] 2025-05-28 11:11:10.271 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:10.272 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:10.273 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:10.274 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:10.275 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:10.302 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:10.367 [main] Register - Entering Email for subscribing to NewsLetter
+[INFO ] 2025-05-28 11:11:10.464 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:11:10.544 [main] Register - Asserting text message after subscribing
+[DEBUG] 2025-05-28 11:11:11.136 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:11.139 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:11.140 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:11.141 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:11.141 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:11.168 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:11.202 [main] Register - Refreshing page and entering same email again for subscribing
+[INFO ] 2025-05-28 11:11:11.983 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:11:12.063 [main] Register - Asserting text message after subscribing again
+[DEBUG] 2025-05-28 11:11:22.733 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:22.734 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:22.735 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:22.735 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:22.736 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:22.750 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:22.826 [main] Register - Logging out from website
+[INFO ] 2025-05-28 11:11:23.939 [main] Register - Clicking on one of the options for the poll
+[INFO ] 2025-05-28 11:11:24.015 [main] Register - Asserting text message after voting out with the user logged in
+[INFO ] 2025-05-28 11:11:24.096 [main] Register - Asserting text message after voting out without logging into the website
+[DEBUG] 2025-05-28 11:11:24.664 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:24.665 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:24.666 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:24.667 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:24.667 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:24.681 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:24.757 [main] Register - Logging into the website for polling again
+[DEBUG] 2025-05-28 11:11:35.949 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:35.950 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:35.951 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:35.955 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:35.957 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:36.016 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:11:36.043 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:36.043 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:36.044 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:36.045 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:36.045 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:36.073 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:36.129 [main] Register - Searching the product
+[INFO ] 2025-05-28 11:11:36.222 [main] Register - Clicking search button
+[INFO ] 2025-05-28 11:11:36.314 [main] Register - Validating book is present or not
+[DEBUG] 2025-05-28 11:11:37.496 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:37.496 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:37.497 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:37.497 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:37.498 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:37.506 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:38.429 [main] Register - Navigating to books section
+[INFO ] 2025-05-28 11:11:39.528 [main] Register - Adding third book into the cart
+[INFO ] 2025-05-28 11:11:39.631 [main] Register - Counting number of books that are added into the cart
+[INFO ] 2025-05-28 11:11:39.659 [main] Register - Confirming all books having addtocart
+[DEBUG] 2025-05-28 11:11:39.957 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:39.958 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:39.958 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:39.959 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:39.960 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:39.977 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:11:40.012 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:40.013 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:40.013 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:40.014 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:40.014 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:40.027 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:40.942 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:11:44.007 [main] Register - Select country
+[DEBUG] 2025-05-28 11:11:49.451 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:49.452 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:49.452 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:49.453 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:49.453 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:49.462 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:11:49.484 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:11:49.485 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:11:49.485 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:11:49.486 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:11:49.487 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:11:49.495 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:11:50.463 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:11:53.204 [main] Register - Select country
+[DEBUG] 2025-05-28 11:12:37.226 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:12:37.233 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:12:37.234 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:12:37.235 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:12:37.235 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:12:37.687 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:12:57.539 [main] Register - Navigating to Register
+[INFO ] 2025-05-28 11:12:58.482 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:12:58.596 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:12:58.680 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:12:58.748 [main] Register - Entering email
+[INFO ] 2025-05-28 11:12:58.844 [main] Register - Entering password
+[INFO ] 2025-05-28 11:12:58.922 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:12:59.000 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:13:00.422 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:13:00.490 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:13:00.494 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:13:00.495 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:13:00.500 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:13:00.500 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:13:00.501 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:13:00.501 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:13:00.502 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:13:00.504 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:13:00.506 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:13:00.508 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:13:00.508 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:13:00.787 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:13:00.851 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:13:00.910 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:13:00.989 [main] Register - Entering email
+[INFO ] 2025-05-28 11:13:01.057 [main] Register - Entering password
+[INFO ] 2025-05-28 11:13:01.123 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:13:01.220 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:13:01.351 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:13:01.354 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:13:01.356 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:13:01.356 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:13:01.358 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:13:01.359 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:13:01.359 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:13:01.360 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:13:01.360 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:13:01.362 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:13:01.367 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:13:01.389 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:13:01.390 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:13:01.652 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:13:01.724 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:13:01.785 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:13:01.841 [main] Register - Entering email
+[INFO ] 2025-05-28 11:13:01.937 [main] Register - Entering password
+[INFO ] 2025-05-28 11:13:02.024 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:13:02.098 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:13:03.614 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:13:03.616 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:13:03.618 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:13:03.619 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:13:03.621 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:13:03.621 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:13:03.622 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:13:03.622 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:13:03.623 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:13:03.625 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:13:03.626 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:13:03.628 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:13:03.628 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:13:04.308 [main] Register - Selecting Male Gender
+[DEBUG] 2025-05-28 11:13:14.712 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:14.713 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:14.721 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:14.724 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:14.727 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:14.752 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:13:14.856 [main] Register - Entering Email for subscribing to NewsLetter
+[INFO ] 2025-05-28 11:13:14.962 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:13:15.037 [main] Register - Asserting text message after subscribing
+[DEBUG] 2025-05-28 11:13:15.636 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:15.637 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:15.638 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:15.638 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:15.639 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:15.682 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:13:15.754 [main] Register - Refreshing page and entering same email again for subscribing
+[INFO ] 2025-05-28 11:13:16.471 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:13:16.554 [main] Register - Asserting text message after subscribing again
+[DEBUG] 2025-05-28 11:13:26.851 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:26.852 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:26.853 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:26.854 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:26.854 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:26.869 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:13:26.902 [main] Register - Logging out from website
+[INFO ] 2025-05-28 11:13:28.161 [main] Register - Clicking on one of the options for the poll
+[INFO ] 2025-05-28 11:13:28.235 [main] Register - Asserting text message after voting out with the user logged in
+[INFO ] 2025-05-28 11:13:28.331 [main] Register - Asserting text message after voting out without logging into the website
+[DEBUG] 2025-05-28 11:13:28.897 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:28.898 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:28.899 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:28.899 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:28.900 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:28.911 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:13:28.954 [main] Register - Logging into the website for polling again
+[INFO ] 2025-05-28 11:13:30.742 [main] Register - Clicking on one of the options for the poll
+[INFO ] 2025-05-28 11:13:30.822 [main] Register - Asserting text message after voting out with the user logged in
+[DEBUG] 2025-05-28 11:13:42.939 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:42.939 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:42.940 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:42.941 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:42.941 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:42.955 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:13:42.983 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:42.984 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:42.985 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:42.985 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:42.986 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:43.003 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:13:43.043 [main] Register - Searching the product
+[INFO ] 2025-05-28 11:13:43.148 [main] Register - Clicking search button
+[INFO ] 2025-05-28 11:13:44.132 [main] Register - Validating book is present or not
+[DEBUG] 2025-05-28 11:13:44.173 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:44.174 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:44.174 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:44.175 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:44.175 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:44.188 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:13:44.872 [main] Register - Navigating to books section
+[INFO ] 2025-05-28 11:13:46.088 [main] Register - Adding third book into the cart
+[INFO ] 2025-05-28 11:13:46.184 [main] Register - Counting number of books that are added into the cart
+[INFO ] 2025-05-28 11:13:46.740 [main] Register - Confirming all books having addtocart
+[DEBUG] 2025-05-28 11:13:47.055 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:47.055 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:47.056 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:47.057 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:47.057 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:47.068 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:13:47.087 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:47.087 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:47.088 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:47.088 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:47.089 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:47.098 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:13:47.867 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:13:51.037 [main] Register - Select country
+[INFO ] 2025-05-28 11:13:51.305 [main] Register - Enter city
+[INFO ] 2025-05-28 11:13:51.393 [main] Register - Enter address
+[INFO ] 2025-05-28 11:13:51.477 [main] Register - Enter zipcode
+[DEBUG] 2025-05-28 11:13:51.743 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:13:51.745 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:13:51.748 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:13:51.748 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:13:51.750 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:13:51.750 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:13:51.752 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:13:51.753 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:13:51.754 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:13:51.759 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:13:51.762 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:13:51.763 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:13:51.764 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[DEBUG] 2025-05-28 11:13:51.778 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:13:51.780 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:13:51.783 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:13:51.784 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:13:51.789 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:13:51.790 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:13:51.790 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:13:51.790 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:13:51.791 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:13:51.793 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:13:51.798 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:13:51.801 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:13:51.804 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[DEBUG] 2025-05-28 11:13:52.804 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:52.804 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:52.805 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:52.805 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:52.806 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:52.813 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:13:52.829 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:13:52.829 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:13:52.830 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:13:52.830 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:13:52.831 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:13:52.838 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:13:53.656 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:13:56.080 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:14:06.403 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:14:06.404 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:14:06.405 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:14:06.405 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:14:06.406 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:14:06.417 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:14:06.437 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:14:06.438 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:14:06.438 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:14:06.438 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:14:06.439 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:14:06.445 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:14:07.280 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:14:10.221 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:14:20.513 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:14:20.514 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:14:20.515 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:14:20.516 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:14:20.516 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:14:20.524 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:14:20.555 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:14:20.556 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:14:20.557 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:14:20.557 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:14:20.558 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:14:20.569 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:14:21.314 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:14:24.347 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:14:34.602 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:14:34.603 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:14:34.604 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:14:34.604 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:14:34.604 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:14:34.611 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:14:34.641 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:14:34.642 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:14:34.642 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:14:34.643 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:14:34.643 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:14:34.649 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:14:35.385 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:14:37.830 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:14:48.112 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:14:48.112 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:14:48.113 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:14:48.113 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:14:48.113 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:14:48.120 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:14:48.137 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:14:48.138 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:14:48.138 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:14:48.138 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:14:48.140 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:14:48.149 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:14:49.044 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:14:53.237 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:15:03.571 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:15:03.572 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:15:03.572 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:15:03.572 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:15:03.572 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:15:03.579 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:15:03.592 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:15:03.594 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:15:03.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:15:03.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:15:03.596 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:15:03.602 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:15:04.332 [main] Register - Add first product to cart
+[INFO ] 2025-05-28 11:15:08.728 [main] Register - Add second product to cart
+[INFO ] 2025-05-28 11:15:12.219 [main] Register - Add third product to cart
+[INFO ] 2025-05-28 11:15:15.639 [main] Register - Delete two products from the cart
+[INFO ] 2025-05-28 11:15:17.887 [main] Register - Confirming that books have been deleted
+[DEBUG] 2025-05-28 11:15:19.289 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:15:19.289 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:15:19.290 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:15:19.290 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:15:19.290 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:15:19.299 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:15:19.336 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:15:19.336 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:15:19.337 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:15:19.337 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:15:19.337 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:15:19.345 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:15:20.201 [main] Register - Click on Digital Downloads
+[INFO ] 2025-05-28 11:15:22.150 [main] Register - Add All Products into the WishList
+[INFO ] 2025-05-28 11:15:28.964 [main] Register - validate all products are add into the wishlist
+[INFO ] 2025-05-28 11:15:31.278 [main] Register - Click on WishList
+[INFO ] 2025-05-28 11:15:32.065 [main] Register - Remove a product from the WishList
+[INFO ] 2025-05-28 11:15:43.164 [main] Register - Removing all product from the WishList
+[DEBUG] 2025-05-28 11:17:26.850 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:17:26.857 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:17:26.858 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:17:26.859 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:17:26.860 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:17:27.296 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:17:48.222 [main] Register - Navigating to Register
+[INFO ] 2025-05-28 11:17:49.429 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:17:49.559 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:17:49.658 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:17:49.726 [main] Register - Entering email
+[INFO ] 2025-05-28 11:17:49.827 [main] Register - Entering password
+[INFO ] 2025-05-28 11:17:49.905 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:17:49.971 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:17:50.926 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:17:51.006 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:17:51.011 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:17:51.011 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:17:51.015 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:17:51.015 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:17:51.016 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:17:51.016 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:17:51.017 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:17:51.020 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:17:51.022 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:17:51.024 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:17:51.024 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:17:51.330 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:17:51.401 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:17:51.456 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:17:51.507 [main] Register - Entering email
+[INFO ] 2025-05-28 11:17:51.559 [main] Register - Entering password
+[INFO ] 2025-05-28 11:17:51.621 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:17:51.702 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:17:51.823 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:17:51.828 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:17:51.829 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:17:51.831 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:17:51.833 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:17:51.833 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:17:51.833 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:17:51.834 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:17:51.836 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:17:51.840 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:17:51.842 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:17:51.845 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:17:51.845 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:17:52.108 [main] Register - Selecting Male Gender
+[INFO ] 2025-05-28 11:17:52.165 [main] Register - Entering firstname
+[INFO ] 2025-05-28 11:17:52.231 [main] Register - Entering lastname
+[INFO ] 2025-05-28 11:17:52.300 [main] Register - Entering email
+[INFO ] 2025-05-28 11:17:52.417 [main] Register - Entering password
+[INFO ] 2025-05-28 11:17:52.513 [main] Register - Entering confirmPassword
+[INFO ] 2025-05-28 11:17:52.597 [main] Register - Clicking Register button
+[DEBUG] 2025-05-28 11:17:54.005 [main] ZipPackage - Save content types part
+[DEBUG] 2025-05-28 11:17:54.008 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-05-28 11:17:54.010 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-05-28 11:17:54.010 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-05-28 11:17:54.012 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2025-05-28 11:17:54.012 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-05-28 11:17:54.012 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-05-28 11:17:54.013 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2025-05-28 11:17:54.014 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-05-28 11:17:54.015 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2025-05-28 11:17:54.017 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2025-05-28 11:17:54.019 [main] ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+[DEBUG] 2025-05-28 11:17:54.020 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[INFO ] 2025-05-28 11:17:54.858 [main] Register - Selecting Male Gender
+[DEBUG] 2025-05-28 11:18:05.196 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:05.197 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:05.198 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:05.199 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:05.200 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:05.218 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:18:05.248 [main] Register - Entering Email for subscribing to NewsLetter
+[INFO ] 2025-05-28 11:18:05.344 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:18:05.422 [main] Register - Asserting text message after subscribing
+[DEBUG] 2025-05-28 11:18:06.001 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:06.002 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:06.003 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:06.003 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:06.004 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:06.013 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:18:06.051 [main] Register - Refreshing page and entering same email again for subscribing
+[INFO ] 2025-05-28 11:18:06.797 [main] Register - Clicking on subscribe
+[INFO ] 2025-05-28 11:18:06.871 [main] Register - Asserting text message after subscribing again
+[DEBUG] 2025-05-28 11:18:17.248 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:17.249 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:17.249 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:17.250 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:17.250 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:17.259 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:18:17.292 [main] Register - Logging out from website
+[INFO ] 2025-05-28 11:18:18.387 [main] Register - Clicking on one of the options for the poll
+[INFO ] 2025-05-28 11:18:18.467 [main] Register - Asserting text message after voting out with the user logged in
+[INFO ] 2025-05-28 11:18:18.572 [main] Register - Asserting text message after voting out without logging into the website
+[DEBUG] 2025-05-28 11:18:19.175 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:19.176 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:19.177 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:19.177 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:19.178 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:19.197 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:18:19.241 [main] Register - Logging into the website for polling again
+[INFO ] 2025-05-28 11:18:21.109 [main] Register - Clicking on one of the options for the poll
+[INFO ] 2025-05-28 11:18:21.178 [main] Register - Asserting text message after voting out with the user logged in
+[DEBUG] 2025-05-28 11:18:33.186 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:33.187 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:33.188 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:33.189 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:33.189 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:33.205 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:18:33.230 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:33.231 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:33.231 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:33.232 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:33.232 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:33.253 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:18:33.297 [main] Register - Searching the product
+[INFO ] 2025-05-28 11:18:33.374 [main] Register - Clicking search button
+[INFO ] 2025-05-28 11:18:33.457 [main] Register - Validating book is present or not
+[DEBUG] 2025-05-28 11:18:34.395 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:34.396 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:34.397 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:34.398 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:34.398 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:34.418 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:18:35.151 [main] Register - Navigating to books section
+[INFO ] 2025-05-28 11:18:36.465 [main] Register - Adding third book into the cart
+[INFO ] 2025-05-28 11:18:36.558 [main] Register - Counting number of books that are added into the cart
+[INFO ] 2025-05-28 11:18:37.119 [main] Register - Confirming all books having addtocart
+[DEBUG] 2025-05-28 11:18:37.406 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:37.407 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:37.408 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:37.408 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:37.409 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:37.422 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:18:37.454 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:37.454 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:37.455 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:37.456 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:37.456 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:37.495 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:18:38.186 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:18:40.934 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:18:51.202 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:51.203 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:51.204 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:51.204 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:51.205 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:51.214 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:18:51.229 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:18:51.230 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:18:51.231 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:18:51.231 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:18:51.231 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:18:51.239 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:18:51.934 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:18:54.458 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:19:04.683 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:04.684 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:04.684 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:04.685 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:04.685 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:04.694 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:19:04.710 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:04.710 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:04.711 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:04.711 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:04.712 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:04.719 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:19:05.398 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:19:07.787 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:19:18.027 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:18.027 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:18.028 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:18.028 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:18.029 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:18.038 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:19:18.061 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:18.062 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:18.063 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:18.063 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:18.064 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:18.076 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:19:18.785 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:19:21.263 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:19:31.553 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:31.553 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:31.554 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:31.556 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:31.556 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:31.566 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:19:31.634 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:31.635 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:31.635 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:31.636 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:31.636 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:31.669 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:19:32.364 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:19:34.755 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:19:44.998 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:44.999 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:44.999 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:45.000 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:45.000 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:45.007 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:19:45.022 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:45.023 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:45.023 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:45.024 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:45.024 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:45.031 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:19:45.791 [main] Register - Navigate to Shopping cart page
+[INFO ] 2025-05-28 11:19:48.253 [main] Register - Entering existing address if any
+[DEBUG] 2025-05-28 11:19:58.480 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:58.481 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:58.481 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:58.482 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:58.482 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:58.489 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:19:58.502 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:19:58.503 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:19:58.503 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:19:58.504 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:19:58.504 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:19:58.511 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:19:59.171 [main] Register - Add first product to cart
+[INFO ] 2025-05-28 11:20:01.904 [main] Register - Add second product to cart
+[INFO ] 2025-05-28 11:20:04.892 [main] Register - Add third product to cart
+[INFO ] 2025-05-28 11:20:08.162 [main] Register - Delete two products from the cart
+[INFO ] 2025-05-28 11:20:11.358 [main] Register - Confirming that books have been deleted
+[DEBUG] 2025-05-28 11:20:11.620 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:20:11.620 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:20:11.621 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:20:11.621 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:20:11.621 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:20:11.628 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2025-05-28 11:20:11.644 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-05-28 11:20:11.644 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-05-28 11:20:11.646 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2025-05-28 11:20:11.647 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2025-05-28 11:20:11.647 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-05-28 11:20:11.655 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2025-05-28 11:20:12.485 [main] Register - Click on Digital Downloads
+[INFO ] 2025-05-28 11:20:13.467 [main] Register - Add All Products into the WishList
+[INFO ] 2025-05-28 11:20:18.886 [main] Register - validate all products are add into the wishlist
+[INFO ] 2025-05-28 11:20:21.220 [main] Register - Click on WishList
+[INFO ] 2025-05-28 11:20:21.871 [main] Register - Remove a product from the WishList
+[INFO ] 2025-05-28 11:20:32.905 [main] Register - Removing all product from the WishList
